@@ -1,0 +1,6 @@
+appointment-backend/target/
+appointment-frontend/node_modules/
+appointment-frontend/dist/
+.env
+.env.*
+!.env.example
